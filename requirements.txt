@@ -1,0 +1,2 @@
+# No dependencies needed - uses Python's standard library
+# (Unless your environment variables are extra sneaky)
